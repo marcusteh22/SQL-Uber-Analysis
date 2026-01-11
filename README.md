@@ -60,7 +60,7 @@ uber-sql-analysis/
 The dataset used in this project is publicly available on Kaggle:
 
 **Uber Ride Analytics Dataset**
-[https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
+[[https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard?select=ncr_ride_bookings.csv))
 
 
 The dataset is **not included** in this repository.
