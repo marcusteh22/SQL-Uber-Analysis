@@ -1,0 +1,7 @@
+CREATE DATABASE uber_analysis;
+USE uber_analysis;
+SELECT DATABASE();
+
+-- VALIDATION
+SHOW DATABASES;
+SHOW TABLES;
