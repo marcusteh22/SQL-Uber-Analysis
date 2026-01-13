@@ -3,24 +3,9 @@
 
 SQL analysis of Uber ride bookings: performing data cleaning, transformation, and extracting business insights based on 100K+ ride bookings. Analyzing its completion rates, peak hours, cancellations, and operational efficiency et cetera. 
 
----
-
-## Project Structure
-
-```text
-uber-sql-analysis/
-├── data/
-│   └── uber_ride_bookings.csv   (not included in repo)
-├── sql/
-│   ├── 01_database_setup.sql
-│   ├── 02_table_creation.sql
-│   ├── 03_data_loading.sql
-│   ├── 04_data_cleaning.sql
-│   └── 05_data_analysis.sql
-└── README.md
-```
 
 ---
+
 
 ## File Descriptions
 
